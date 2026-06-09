@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Aref+Ruqaa:wght@400;700&family=Reem+Kufi:wght@400;500;600;700&family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --parchment: #FDF9F0;
+  --parchment-deep: #F8EFD9;
+  --ink-deep: #2C1F11;
+  --gold: #A8821F;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--parchment);
+  color: var(--ink-deep);
+  font-family: 'Inter', system-ui, sans-serif;
+  /* Subtle parchment texture using layered gradients */
+  background-image:
+    radial-gradient(at 12% 20%, rgba(195,154,61,0.06) 0%, transparent 50%),
+    radial-gradient(at 85% 75%, rgba(139,42,36,0.04) 0%, transparent 50%),
+    radial-gradient(at 50% 50%, rgba(91,107,77,0.03) 0%, transparent 60%);
+  background-attachment: fixed;
+}
+
+/* Right-to-left for any element marked Arabic */
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Body / verse Arabic — readable, dignified */
+.font-arabic {
+  font-family: 'Amiri', 'Scheherazade New', serif;
+  letter-spacing: 0.01em;
+}
+
+/* Headline Arabic — Aref Ruqaa, classical ruqʿa hand, more distinctive
+   for big titles. Bold by default at this size. */
+.font-arabic-display {
+  font-family: 'Aref Ruqaa', 'Amiri', serif;
+  font-weight: 700;
+  letter-spacing: 0.005em;
+}
+
+/* Ornamental separator */
+.ornament {
+  position: relative;
+  text-align: center;
+  margin: 2.5rem 0;
+}
+.ornament::before, .ornament::after {
+  content: '';
+  display: inline-block;
+  width: 60px;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #A8821F, transparent);
+  vertical-align: middle;
+  margin: 0 1rem;
+}
+.ornament-glyph {
+  display: inline-block;
+  color: #A8821F;
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
+/* Manuscript card border */
+.manuscript-card {
+  border: 1px solid rgba(168,130,31,0.25);
+  background: linear-gradient(180deg, #FDF9F0 0%, #F8EFD9 100%);
+  box-shadow:
+    0 1px 2px rgba(44,31,17,0.04),
+    0 8px 24px -8px rgba(44,31,17,0.08),
+    inset 0 0 0 1px rgba(255,255,255,0.5);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.manuscript-card:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 1px 2px rgba(44,31,17,0.05),
+    0 16px 32px -10px rgba(44,31,17,0.14),
+    inset 0 0 0 1px rgba(255,255,255,0.6);
+}
+
+/* Gold link */
+.gold-link {
+  color: #A8821F;
+  border-bottom: 1px solid rgba(168,130,31,0.4);
+  transition: color 0.15s, border-color 0.15s;
+}
+.gold-link:hover {
+  color: #8C6A18;
+  border-bottom-color: #8C6A18;
+}
+
+/* Floating ink dot scroll cue */
+@keyframes inkpulse {
+  0%, 100% { transform: translateY(0); opacity: 0.8; }
+  50% { transform: translateY(8px); opacity: 0.4; }
+}
+.scroll-cue { animation: inkpulse 2.4s ease-in-out infinite; }
+
+/* Critic verdict prose */
+.verdict-prose {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.06rem;
+  line-height: 1.75;
+  color: #2C1F11;
+}
+.verdict-prose strong { color: #6E211C; font-weight: 600; }
+.verdict-prose blockquote {
+  border-left: 3px solid #A8821F;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  color: #4A3825;
+  font-style: italic;
+}
+.verdict-prose code { background: rgba(168,130,31,0.08); padding: 0 0.25rem; border-radius: 2px; }
+
+/* Skip link a11y */
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}

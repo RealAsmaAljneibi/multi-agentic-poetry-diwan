@@ -1,0 +1,30 @@
+{
+  "_comment": "Per-anchor enrichment for the Phase-2 placeholder shown when no DCT verses are available yet. Keeps the empty state intellectually rich rather than blank.",
+  "al_majidi_bin_zahir": {
+    "biographical_excerpt_en": "Al-Mājidī Ibn Ẓāhir is an Emirati poet whose work has been preserved across centuries — a pinnacle of distinctive linguistic formulation, sound articulation, and the depth of meanings reflective of profound culture. Narrations differ on his birthplace: some say the village of Al-Saadi in Ras Al Khaimah, others Al-Daid, others Al-Kharran. He lived during the era of the Yaʿrubi State and was a contemporary of Imam Saif bin Sultan and of Sheikh Shakhbut bin Dhiyab Al Nahyan (1793–1816). He worked in palm cultivation and pearl-diving. His tribe, Al-Mawajid, gives him his surname. He is buried at Al-Madhawiyah cemetery in Al-Kharan, Ras Al-Khaimah, where he had asked to be laid to rest.",
+    "verses_known_count": "scattered survivals — preserved orally and in regional manuscripts",
+    "authoritative_diwan": {
+      "title": "ديوان الماجدي بن ظاهر",
+      "editor": "Sheikha Muhammad Al-Jabri",
+      "publisher": "Abu Dhabi Collection for Culture and Arts",
+      "year": 2019,
+      "edition": "1st edition",
+      "note": "The most reliable modern print compilation, drawing on multiple manuscript sources and oral narrations."
+    },
+    "additional_print_sources": [
+      "Hamad Khalifa Abu Shihab & Ibrahim Abu Malha — Al-Mājidī Ibn Ẓāhir: His Life and Poetry — Abu Dhabi Authority for Culture and Heritage, Poetry Academy, 1st edition, 2012",
+      "Faleh Hanzal — Al-Mājidī Ibn Ẓāhir: A Study of his Thought through his Poetic Art — Federation of UAE Writers, Sharjah, 1st edition, 1992",
+      "Abdullah Saif Lynid Al-Shuwaihi — Ibn Dhaher: Between the Poetic Meters of Classical and Nabati Poetry — Sharjah Heritage Institute, 2021"
+    ],
+    "verified_authority_url": "https://rakheritage.rak.ae/al-majidi-ibn-dhaher/",
+    "verified_authority_name": "RAK Department of Antiquities and Museums",
+    "phase2_status": "Print-only diwan exists. A digital corpus would require licensing or fair-use scholarly extracts from the Sheikha Al-Jabri edition. Phase 2 plan: secure scholarly access via the Sharjah Heritage Institute or the RAK Department of Antiquities."
+  },
+  "sheikh_zayed": {
+    "biographical_excerpt_en": "Sheikh Zayed bin Sultan Al Nahyan (1918–2004), founding father of the United Arab Emirates, was a poet whose verse carried the themes that shaped a nation: the bond to the land, the discipline of falconry, the honor of the tribe, and the wisdom of stewardship.",
+    "attribution_caution": "The DCT Abu Dhabi Poetry Archive contains a diwan titled 'قصائد الشيخ زايد' (poet ID 19032) which is bylined to his son الشيخ سلطان بن زايد آل نهيان. Whether the verses within are by Sheikh Zayed (with Sheikh Sultan as compiler / preserver) or by Sheikh Sultan in tribute to his father is not unambiguous from the metadata. This prototype declines to attribute verses to Sheikh Zayed without scholarly confirmation of which is the case.",
+    "verified_authority_url": "https://poetry.dct.gov.ae/diwan/19032-%D9%82%D8%B5%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF",
+    "verified_authority_name": "DCT Abu Dhabi Poetry Encyclopedia — Diwan #19032",
+    "phase2_status": "Awaiting scholarly review of the DCT diwan to confirm authorship. Once confirmed, attested verses can be ingested via the same DCT pipeline already used for Ousha bint Khalifa. Independent collections such as 'قصائد من الصحراء' may also be sources."
+  }
+}

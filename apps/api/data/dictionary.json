@@ -1,0 +1,369 @@
+[
+  {
+    "headword_ar": "الدلّة",
+    "headword_translit": "ad-dalla",
+    "pos": "noun (feminine)",
+    "definition_ar": "إبريق القهوة العربية المعدني ذو المنقار المعقوف، رمز الكرم في المجلس",
+    "definition_en": "The traditional brass coffee pot with a curved spout — the central symbol of hospitality in the majlis.",
+    "semantic_field": [
+      "hospitality",
+      "majlis",
+      "coffee_culture"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "etymology": "from د-ل-و, related to drawing/pouring",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D001"
+  },
+  {
+    "headword_ar": "المجلس",
+    "headword_translit": "al-majlis",
+    "pos": "noun (masculine)",
+    "definition_ar": "المكان الذي يجتمع فيه الرجال للحديث والشعر والقهوة، وهو أيضاً الجلسة نفسها",
+    "definition_en": "The gathering space where men convene for conversation, poetry, and coffee — and by extension the gathering itself.",
+    "semantic_field": [
+      "social_life",
+      "poetry_circle",
+      "council"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "etymology": "from ج-ل-س, the place of sitting",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D002"
+  },
+  {
+    "headword_ar": "الفلج",
+    "headword_translit": "al-falaj",
+    "pos": "noun (masculine)",
+    "definition_ar": "نظام الري التقليدي الذي ينقل المياه من الجبال إلى الواحات عبر قنوات تحت الأرض",
+    "definition_en": "The traditional irrigation system carrying water from mountain springs to oases through underground channels — a recurring image of life and stewardship in Emirati verse.",
+    "semantic_field": [
+      "land",
+      "water",
+      "agriculture",
+      "stewardship"
+    ],
+    "region": "al_ain",
+    "rarity": "specialized",
+    "etymology": "from ف-ل-ج, to split / divide (the earth)",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D003"
+  },
+  {
+    "headword_ar": "الذلول",
+    "headword_translit": "adh-dhalūl",
+    "pos": "noun (feminine)",
+    "definition_ar": "الناقة المروّضة الذلولة للراكب، يُمدح بها لطاعتها وحُسن سيرها",
+    "definition_en": "A trained, docile riding camel — praised in classical Nabati for her obedience and smooth gait.",
+    "semantic_field": [
+      "camels",
+      "travel",
+      "Bedouin_life"
+    ],
+    "region": "pan_peninsula",
+    "rarity": "classical",
+    "etymology": "from ذ-ل-ل, to be tractable",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D004"
+  },
+  {
+    "headword_ar": "الهجين",
+    "headword_translit": "al-hajīn",
+    "pos": "noun (masculine)",
+    "definition_ar": "نوع من الإبل سريع الجري، يُستخدم في السباق والمراسلة",
+    "definition_en": "A breed of fast camel used for racing and message-bearing.",
+    "semantic_field": [
+      "camels",
+      "speed",
+      "racing"
+    ],
+    "region": "pan_emirati",
+    "rarity": "specialized",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D005"
+  },
+  {
+    "headword_ar": "الصقر",
+    "headword_translit": "aṣ-ṣaqr",
+    "pos": "noun (masculine)",
+    "definition_ar": "الطائر الجارح الذي يُربى للقنص، وهو رمز للنبل والشرف في الشعر النبطي",
+    "definition_en": "The falcon — bird of prey trained for hunting (qans), and a recurring symbol of nobility, vigilance, and honor in Nabati verse.",
+    "semantic_field": [
+      "falconry",
+      "honor",
+      "nobility"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D006"
+  },
+  {
+    "headword_ar": "القنص",
+    "headword_translit": "al-qans",
+    "pos": "noun (masculine)",
+    "definition_ar": "صيد الطيور والحيوانات بالصقور والكلاب، تقليد بدوي عريق",
+    "definition_en": "Hunting with falcons and saluki dogs — an ancient Bedouin practice and frequent thematic source in classical Nabati.",
+    "semantic_field": [
+      "falconry",
+      "tradition",
+      "outdoor_life"
+    ],
+    "region": "pan_emirati",
+    "rarity": "specialized",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D007"
+  },
+  {
+    "headword_ar": "الديرة",
+    "headword_translit": "ad-dīra",
+    "pos": "noun (feminine)",
+    "definition_ar": "الموطن، الأرض التي ينتمي إليها القبيلة أو الشاعر",
+    "definition_en": "The homeland — the land to which a tribe or poet belongs. Carries weight beyond geography: identity, lineage, return.",
+    "semantic_field": [
+      "land",
+      "belonging",
+      "identity"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "etymology": "from د-و-ر, to circle / to dwell around",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D008"
+  },
+  {
+    "headword_ar": "الشيمة",
+    "headword_translit": "ash-shīma",
+    "pos": "noun (feminine)",
+    "definition_ar": "الخُلق والطبع، السجية الكريمة التي يُعرف بها الإنسان",
+    "definition_en": "Character — the noble disposition by which a person is known. Often paired with honor and lineage in praise verse.",
+    "semantic_field": [
+      "honor",
+      "character",
+      "ethics"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D009"
+  },
+  {
+    "headword_ar": "المروّة",
+    "headword_translit": "al-muruwwa",
+    "pos": "noun (feminine)",
+    "definition_ar": "كمال الرجولة في الكرم والشجاعة والوفاء",
+    "definition_en": "The completeness of manliness — the union of generosity, courage, and loyalty. A core ethical concept across classical Arab and Nabati verse.",
+    "semantic_field": [
+      "honor",
+      "ethics",
+      "virtue"
+    ],
+    "region": "pan_arab",
+    "rarity": "classical",
+    "etymology": "from م-ر-أ, the qualities of the man (al-marʾ)",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D010"
+  },
+  {
+    "headword_ar": "الوسم",
+    "headword_translit": "al-wasm",
+    "pos": "noun (masculine)",
+    "definition_ar": "موسم المطر الخريفي الذي يُحيي الأرض، ومنه مَوسم النجوم المعروف",
+    "definition_en": "The autumn rainy season that revives the desert — also the name of the corresponding star-rising. A motif of renewal and divine generosity.",
+    "semantic_field": [
+      "weather",
+      "land",
+      "renewal"
+    ],
+    "region": "pan_peninsula",
+    "rarity": "specialized",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D011"
+  },
+  {
+    "headword_ar": "السمر",
+    "headword_translit": "as-samar",
+    "pos": "noun (masculine)",
+    "definition_ar": "السهر للحديث والشعر في المجلس بعد العشاء",
+    "definition_en": "The evening conversation — sitting up after dinner for talk, recitation, and verse. The natural setting for Nabati performance.",
+    "semantic_field": [
+      "majlis",
+      "evening",
+      "conversation"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D012"
+  },
+  {
+    "headword_ar": "الهيل",
+    "headword_translit": "al-hīl",
+    "pos": "noun (masculine)",
+    "definition_ar": "الهيل (الحبهان)، التابل الذي يُضاف إلى القهوة العربية",
+    "definition_en": "Cardamom — the spice added to Arabic coffee. Its scent is itself an image of welcome.",
+    "semantic_field": [
+      "coffee_culture",
+      "hospitality"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D013"
+  },
+  {
+    "headword_ar": "الفنجان",
+    "headword_translit": "al-finjān",
+    "pos": "noun (masculine)",
+    "definition_ar": "الكوب الصغير الذي تُصب فيه القهوة العربية",
+    "definition_en": "The small handleless cup from which Arabic coffee is served. Three are customary; refusing the fourth signals you have had enough.",
+    "semantic_field": [
+      "coffee_culture",
+      "hospitality"
+    ],
+    "region": "pan_emirati",
+    "rarity": "common",
+    "etymology": "from Persian پنگان",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D014"
+  },
+  {
+    "headword_ar": "البارح",
+    "headword_translit": "al-bāriḥ",
+    "pos": "noun (masculine)",
+    "definition_ar": "الرياح الحارة التي تهبّ في الصيف من جهة الشمال الغربي",
+    "definition_en": "The hot summer wind from the northwest. In verse, often a figure for adversity that tests the steadfast.",
+    "semantic_field": [
+      "weather",
+      "desert",
+      "trial"
+    ],
+    "region": "pan_peninsula",
+    "rarity": "specialized",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D015"
+  },
+  {
+    "headword_ar": "الندى",
+    "headword_translit": "an-nadā",
+    "pos": "noun (masculine)",
+    "definition_ar": "الندى الصباحي، ومجازاً الكرم والعطاء",
+    "definition_en": "Morning dew — and by metaphor, generosity that arrives quietly and gives life.",
+    "semantic_field": [
+      "nature",
+      "generosity",
+      "metaphor"
+    ],
+    "region": "pan_arab",
+    "rarity": "classical",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D016"
+  },
+  {
+    "headword_ar": "اليمّ",
+    "headword_translit": "al-yamm",
+    "pos": "noun (masculine)",
+    "definition_ar": "البحر، خاصة في السياق الشعري الرفيع",
+    "definition_en": "The sea — used especially in elevated poetic register. Carries weight that the everyday word baḥr does not.",
+    "semantic_field": [
+      "sea",
+      "pearling",
+      "poetry_register"
+    ],
+    "region": "coastal_emirati",
+    "rarity": "classical",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D017"
+  },
+  {
+    "headword_ar": "الغوص",
+    "headword_translit": "al-ghawṣ",
+    "pos": "noun (masculine)",
+    "definition_ar": "موسم الغوص لاستخراج اللؤلؤ من قاع الخليج، أساس الاقتصاد القديم",
+    "definition_en": "The pearling dive — the seasonal expedition to harvest pearls from the Gulf seabed, foundation of the pre-oil economy and a deep wellspring of imagery.",
+    "semantic_field": [
+      "sea",
+      "pearling",
+      "labor"
+    ],
+    "region": "coastal_emirati",
+    "rarity": "specialized",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D018"
+  },
+  {
+    "headword_ar": "النوخذة",
+    "headword_translit": "an-nūkhadha",
+    "pos": "noun (masculine)",
+    "definition_ar": "ربان السفينة في موسم الغوص، الذي يقود الرجال ويوزع الحصص",
+    "definition_en": "The captain of the pearling ship — the figure who led the dive, judged the catch, and distributed shares. A figure of authority and responsibility in coastal verse.",
+    "semantic_field": [
+      "sea",
+      "pearling",
+      "leadership"
+    ],
+    "region": "coastal_emirati",
+    "rarity": "specialized",
+    "etymology": "from Persian ناخدا",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D019"
+  },
+  {
+    "headword_ar": "الرواة",
+    "headword_translit": "ar-ruwāh",
+    "pos": "noun (plural)",
+    "definition_ar": "الذين يحفظون الشعر وينقلونه شفاهاً قبل التدوين",
+    "definition_en": "The reciters — those who memorize and transmit poetry orally. Without them, the entire Nabati tradition would be lost; the poem and its rāwī are inseparable.",
+    "semantic_field": [
+      "poetry_tradition",
+      "memory",
+      "transmission"
+    ],
+    "region": "pan_arab",
+    "rarity": "classical",
+    "attested_in": [],
+    "attestation_count": 0,
+    "status": "curated",
+    "entry_id": "D020"
+  }
+]
