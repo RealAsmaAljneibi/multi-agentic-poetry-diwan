@@ -2,7 +2,7 @@
 
 An Emirati Nabati poetry multi-agent system. A council of master Critics — drawn from the documented schools of **Al-Mājidī bin Ẓāhir**, **Ousha bint Khalifa**, and **Sheikh Zayed** — convenes to read the verses of living poets. Not to write for them. To listen, to weigh, and to teach.
 
-This is a **functional prototype** built in two days, intended for entity demos and proof-of-concept review. It runs entirely on a local machine.
+This is a **functional prototype** intended for entity demos and proof-of-concept review. It runs entirely on a local machine.
 
 ---
 

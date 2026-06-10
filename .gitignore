@@ -22,6 +22,11 @@ node_modules/
 out/
 .turbo/
 *.tsbuildinfo
+next-env.d.ts
+
+# LibreOffice lock/temp files
+.~lock*
+.~*
 
 # OS
 .DS_Store

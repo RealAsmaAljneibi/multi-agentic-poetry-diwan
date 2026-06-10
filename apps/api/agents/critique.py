@@ -3,7 +3,7 @@ Critique pipeline — convene critics, run their verdicts, return structured res
 
 Why a thin pipeline rather than LangGraph: at prototype scale (3 critics, no
 loops, no retries) a sequential function is faster to read, faster to debug,
-and ships in two days. We can graduate to LangGraph in Phase 2 if the
+and ships cleanly. We can graduate to LangGraph in Phase 2 if the
 orchestration grows real branches.
 """
 from __future__ import annotations
